@@ -9,8 +9,8 @@ setup(
     version = "0.1.0",
     author = "Khushiyant",
     author_email = "khushiyant2002@gmail.com",
-    description = ("Single Page Essay Rater using custom trained models, and opencv"),
-    license = "MIT",
+    description = ("A Content analyzer which can find gramitical errors, and spelling misakes"),
+    license = "",
     keywords = "opencv ml",
     long_description=read('README.md')    
 )
