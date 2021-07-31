@@ -1,0 +1,8 @@
+Content Analyzer
+____________________
+
+Easy tool to analyse every mistake of written material, 
+no matter whether essay,article or something else. 
+Use Image or capture from Video
+
+PRESS ESC TO STOP
