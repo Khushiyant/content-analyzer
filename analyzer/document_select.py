@@ -18,7 +18,7 @@ class perspective:
         self.finalImg = self.getContours(canny, self.OriginalCopy)
 
     def returnImg(self):
-        if self.finalImg.all() == self.OriginalCopy.all() :   # Checking for empty image
+        if self.finalImg.all() == self.OriginalCopy.all():   # Checking for empty image
             return [self.finalImg, True]
         else:
             return [self.finalImg, False]

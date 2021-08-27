@@ -17,7 +17,7 @@ from funcs import funcs as fc
 class interactiveUI:
     def __init__(self):
 
-        waittime = 3000  # Loading Screen Time
+        waittime = 2900  # Loading Screen Time
 
         loading = Tk()
         loading.title("Content Analyzer")

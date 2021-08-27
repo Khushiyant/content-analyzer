@@ -11,9 +11,3 @@ class text_extract:
         text = pytesseract.image_to_string(img, lang='eng')
         return text
 
-
-if __name__ == "__main__":
-
-    text = text_extract()
-    print(text.processing(r"D:\Projects\Python\OpenCV\analyzer\Resources\screen.png"))
-

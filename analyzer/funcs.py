@@ -80,6 +80,7 @@ class funcs:
     ################################
 
     def processImg(imgSrc):
+        
         def text_process(imgSrc):
             cv2.imwrite(imgSrc, scanned[0])
 

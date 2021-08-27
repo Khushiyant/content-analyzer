@@ -2,8 +2,6 @@ import cv2
 import numpy as np
 
 # TO STACK ALL THE IMAGES IN ONE WINDOW - Visual Purpose
-
-
 def stackImages(imgArray, scale, lables=[]):
     rows = len(imgArray)
     cols = len(imgArray[0])
